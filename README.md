@@ -1,5 +1,4 @@
 # Glitter-Explosion
 A colorful explosion made with the python turtle package
 
-
-This is a test
+Run this program at https://trinket.io/python/5c4ad1b6fb
