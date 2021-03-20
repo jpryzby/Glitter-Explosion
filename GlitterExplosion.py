@@ -65,3 +65,5 @@ while(True):
   for x in range(glitterCount):
     glitter[x].move()
   screen.update()
+
+
